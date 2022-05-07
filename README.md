@@ -1,5 +1,5 @@
 # CBEForum_Dorosi
-2022 Chung-Ang University College of Business&amp;Economics Forum, Dorosi
+2022 중앙대학교 경영경제대학 학술제, 도로시
 
 1. 개요
 * 주제 : 이륜차 사고다발구역 예측
@@ -10,7 +10,7 @@
 2. 분석내용  
 2-1) K-means Clustering  
 * Correlation
-* K-means Clustering
+* K-means Clustering  
 2-2) GIS 분석  
 
 3. 결론
