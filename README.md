@@ -9,11 +9,14 @@
 * 팀원 : 김서린, 김소은, 서진슬, 장효정
 * 사용언어 및 tool : Python, QGIS
 
+
 ## 분석내용  
 1. K-means Clustering  
 * Correlation
 * K-means Clustering  
-2. GIS 분석  
+* 
+2. GIS 공간분석  
+
 
 ## 결론
 ![image](https://user-images.githubusercontent.com/79136542/210921768-5fc81fc8-451e-4aba-9342-5ac3a6f16b44.png)
