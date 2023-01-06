@@ -14,3 +14,6 @@
 2. GIS 분석  
 
 ## 결론
+![image](https://user-images.githubusercontent.com/79136542/210921768-5fc81fc8-451e-4aba-9342-5ac3a6f16b44.png)
+
+최종 PT 자료 : https://docs.google.com/presentation/d/1KwjVo43YozVQCua2m_LmHV4Bhd4pCcTJ/edit?usp=sharing&ouid=113709308557984457238&rtpof=true&sd=true
